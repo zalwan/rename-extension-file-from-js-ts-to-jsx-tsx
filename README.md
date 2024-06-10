@@ -42,7 +42,3 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ## Author
 
 - [rizal suryawan](https://github.com/zalwan)
-
----
-
-Dengan README yang diperbarui ini, pengguna akan mendapatkan pemahaman yang lebih baik tentang kemampuan skrip dan cara penggunaannya. Jika ada yang perlu disesuaikan lagi, jangan ragu untuk memberi tahu saya!

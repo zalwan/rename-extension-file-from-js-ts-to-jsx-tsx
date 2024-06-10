@@ -1,3 +1,5 @@
+![alt text](image-1.png)
+
 # Rename File JS/TS to JSX/TSX
 
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)

@@ -4,6 +4,10 @@
 
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
+## WHY ?
+
+"Why did I create it? Because I once faced a migration case from CRA to Vite, and it would be troublesome if I had to rename each file one by one. Therefore, I made this, and perhaps it could be useful.😅"
+
 ## Description
 
 This Node.js script provides a convenient way to rename JavaScript (`.js`) or TypeScript (`.ts`) files to JSX (`.jsx`) or TSX (`.tsx`) within the `src` directory or its subdirectories. It's useful for projects transitioning from plain JavaScript or TypeScript to JSX or TSX files, commonly used in React applications.

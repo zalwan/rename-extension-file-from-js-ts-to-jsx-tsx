@@ -1,0 +1,17 @@
+{
+  "name": "rename-file-js-to-jsx",
+  "version": "1.0.0",
+  "description": "rename all js file to jsx on src or sub directory",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rizal suryawan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}

@@ -1,4 +1,4 @@
-![alt text](image-1.png)
+![alt text](image.png)
 
 # Rename File JS/TS to JSX/TSX
 
